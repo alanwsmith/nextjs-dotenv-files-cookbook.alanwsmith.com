@@ -6,16 +6,16 @@ export default function Home() {
     <>
       <Head>
         <title>
-          Store Environmental Variables Outside The Root Of A Next.js Project
-          With dotenv
+          Store Environmental Variables Outside the Root of a Next.js Project
+          with dotenv
         </title>
         <meta
           property="og:title"
-          content="Store Environmental Variables Outside The Root Of A Next.js Project With dotenv"
+          content="Store Environmental Variables Outside the Root of a Next.js Project with dotenv"
         />
         <meta
           name="twitter:title"
-          content="Store Environmental Variables Outside The Root Of A Next.js Project With dotenv"
+          content="Store Environmental Variables Outside the Root of a Next.js Project with dotenv"
         />
         <meta
           property="og:url"
